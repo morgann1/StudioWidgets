@@ -1,0 +1,3 @@
+[tools]
+stylua = "johnnymorganz/stylua@0.20.0"
+rojo = "rojo-rbx/rojo@7.4.1"
